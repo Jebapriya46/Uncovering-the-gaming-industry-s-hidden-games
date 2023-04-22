@@ -15,3 +15,16 @@ story 5 public link - https://public.tableau.com/views/story5_16813773975750/Sto
 
 
 Video Demonstration Link - https://drive.google.com/file/d/1Q5ImK96KkjSi8R9dM2xIhPCippQMM5vs/view?usp=sharing
+
+Dashboard HTML Link - Templatefile:///C:/Users/ELCOT/Downloads/NiceAdmin/project/NiceAdmin/Dashboard_nm.html
+
+Story 1 HTML Link - file:///C:/Users/ELCOT/Downloads/NiceAdmin/project/NiceAdmin/Story%201_nm.html
+
+Story 2 HTML Link - file:///C:/Users/ELCOT/Downloads/NiceAdmin/project/NiceAdmin/Story%202_nm.html
+
+Story 3 HTML Link - file:///C:/Users/ELCOT/Downloads/NiceAdmin/project/NiceAdmin/Story%203_nm.html
+
+Story 4 HTML Link - file:///C:/Users/ELCOT/Downloads/NiceAdmin/project/NiceAdmin/Story%204_nm.html
+
+Story 5 Html Link - file:///C:/Users/ELCOT/Downloads/NiceAdmin/project/NiceAdmin/Story%205_nm.html
+
